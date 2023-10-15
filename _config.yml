@@ -81,38 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Diante Jackson"
-  avatar           : "files/profile.png"
+  avatar           : "profile.png"
   bio              : "Hacking Enthusiast and Intelligence Hobbyist"
   location         : "Houston"
   employer         :
   email            : "diante.jackson@proton.me"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  uri              : "diante0x7.github.com"
   github           : "diante0x7"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "linkedin.com/in/diantej"
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : ""
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  linkedin         : "diantej"
+
 
 
 # Reading Files
