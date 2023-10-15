@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Diante Jackson, a first-year student at the University of Houston, pursuing a double major B.S. in Computer Science and Political Science! I am extremely passionate about information security, whether it be Penetration Testing, Malware/C2 Development, Security Operations or DevOps! I also have a shrewd understanding of intelligence analysis and collection, whether it be OSINT, FININT, or VISINT. I obtained my CompTIA PenTest+ CE in 2021 and I'm currently pursuing both the Splunk Certified Defense Analyst and CompTIA CASP+ certifications.
+Hello! I am Diante Jackson, a first-year student at the University of Houston, pursuing a double major B.S. in Computer Science and Political Science! I am extremely passionate about Information Security, whether it be Penetration Testing, Malware/C2 Development, Security Operations or DevOps! I also have a shrewd understanding of intelligence analysis and collection, whether it be OSINT, FININT, or VISINT. I obtained my CompTIA PenTest+ CE in 2021 and I'm currently pursuing both the Splunk Certified Defense Analyst and CompTIA CASP+ certifications.
 
 What do I do?
 ======
